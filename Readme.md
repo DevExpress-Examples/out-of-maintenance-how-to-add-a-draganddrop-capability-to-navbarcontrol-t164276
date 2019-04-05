@@ -3,7 +3,7 @@
 
 * [NavBarDragDropBehavior.cs](./CS/NavBarDragDropExample/Behavior/NavBarDragDropBehavior.cs) (VB: [NavBarDragDropBehavior.vb](./VB/NavBarDragDropExample/Behavior/NavBarDragDropBehavior.vb))
 * [MainWindow.xaml](./CS/NavBarDragDropExample/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/NavBarDragDropExample/MainWindow.xaml))
-* [MainWindow.xaml.cs](./CS/NavBarDragDropExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/NavBarDragDropExample/MainWindow.xaml))
+* [MainWindow.xaml.cs](./CS/NavBarDragDropExample/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/NavBarDragDropExample/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to add a DragAndDrop capability to NavBarControl
 
