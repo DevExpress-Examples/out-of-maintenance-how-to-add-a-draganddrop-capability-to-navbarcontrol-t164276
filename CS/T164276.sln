@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavBarDragDropExample", "NavBarDragDropExample\NavBarDragDropExample.csproj", "{053216F3-F3D8-4DFB-AA78-1E5EA4045E97}"
 EndProject
 Global
